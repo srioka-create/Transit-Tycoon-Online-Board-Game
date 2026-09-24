@@ -4,7 +4,7 @@ import math
 
 # Konfigurasi Halaman Web App
 st.set_page_config(
-    page_title="Transit Tycoon: City Operator Challenge",
+    page_title="Transit Tycoon: City Operator Challenge (Develop by Oka)",
     page_icon="🚌",
     layout="wide"
 )
