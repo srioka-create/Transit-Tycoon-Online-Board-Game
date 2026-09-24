@@ -4,12 +4,12 @@ import math
 
 # Konfigurasi Halaman Web App
 st.set_page_config(
-    page_title="Transit Tycoon: City Operator Challenge (Develop by Oka)",
+    page_title="Transit Tycoon: City Operator Challenge",
     page_icon="🚌",
     layout="wide"
 )
 
-st.title("🚌 Transit Tycoon: City Operator Challenge")
+st.title("🚌 Transit Tycoon: City Operator Challenge (Develop by Oka)")
 st.caption("Game Simulasi & Game-based Learning Perencanaan Operasional Transportasi Umum")
 
 # Inisialisasi Session State (Status Permainan)
