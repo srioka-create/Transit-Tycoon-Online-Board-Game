@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🚌 Transit Tycoon: City Operator Challenge (Develop by Oka)")
+st.title("🚌 Transit Tycoon: City Operator Challenge (by Oka)")
 st.caption("Game Simulasi & Game-based Learning Perencanaan Operasional Transportasi Umum")
 
 # Inisialisasi Session State (Status Permainan)
