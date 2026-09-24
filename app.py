@@ -101,7 +101,7 @@ with tab3:
     - Penumpang Sesi Sibuk ($P$): **2.600 pnp/jam** (2.100 bus + 500 angkot)
     - Kapasitas Bus ($K$): **240 pnp** | Target $LF$: **90%**
     - Waktu Perjalanan PP ($T_{AB} + T_{BA}$): **120 menit**
-    - Total Waktu Henti (12 Halte): **24 menit** ($12 \times 2$ menit)
+    - Total Waktu Henti (12 Halte): **24 menit** 
     - Faktor Ketersediaan Armada ($f_A$): **1.0**
     """)
     
